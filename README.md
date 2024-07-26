@@ -1,4 +1,4 @@
-# Stone: Astro Theme
+# SemSQL: From Astro Theme
 ## Key Features:
 
 - **Built with Tailwind CSS & Alpine.js**
