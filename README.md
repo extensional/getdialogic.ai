@@ -1,4 +1,4 @@
-# SemSQL: From Astro Theme
+# Dialogic: From Astro Theme
 ## Key Features:
 
 - **Built with Tailwind CSS & Alpine.js**
